@@ -11,7 +11,7 @@ function AddPrivatePayment(props) {
         paymentamount:0,
         paymentnote:''
     })
-
+ // asdfadsfadsfasdlfjasjdhashj;fj;ahsdf
 
     function savePayment() {
 
